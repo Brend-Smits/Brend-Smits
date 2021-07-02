@@ -1,5 +1,5 @@
 ## Hi there 👋,
-#### My name is Brend Smits and I'm graduating as a Software Engineer at Philips Research.
+#### My name is Brend Smits and I'm graduated as a Software Engineer at Philips Research.
   
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Brend-Smits&show_icons=true&include_all_commits=true&count_private=true">  
