@@ -1,5 +1,6 @@
 ## Hi there 👋,
-#### Hello, I'm Brend Smits, a software engineer deeply interested in DevSecOps and prototyping. My primary objective is to simplify the lives of developers by crafting valuable innovations. I approach challenges with an exploratory mindset and embrace an entrepreneurial attitude. Rather than specializing in a specific language or framework, I adapt to the unique requirements of each problem, employing diverse technologies to achieve optimal solutions.
+
+Hello, I'm *Brend Smits*, a software engineer deeply interested in DevSecOps and prototyping. My primary objective is to simplify the lives of developers by crafting valuable innovations. I approach challenges with an exploratory mindset and embrace an entrepreneurial attitude. Rather than specializing in a specific language or framework, I adapt to the unique requirements of each problem, employing diverse technologies to achieve optimal solutions.
 
 ## Technologies
 
